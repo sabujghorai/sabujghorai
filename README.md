@@ -29,7 +29,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 I'm actively seeking collaborations, open-source contributions, and learning opportunities in Python & DSA.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabuj-ghorai)
