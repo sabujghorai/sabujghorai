@@ -38,7 +38,6 @@ I'm actively seeking collaborations, open-source contributions, and learning opp
 
 ---
 
-<h3 align="center">👀 Profile Views</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabujghorai&style=for-the-badge" />
 </p>
