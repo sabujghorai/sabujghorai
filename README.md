@@ -16,6 +16,11 @@
 ---
 
 ## 🛠️ Technology Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ## 🚀 Skills & Tools
 
