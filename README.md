@@ -36,6 +36,11 @@ I'm actively seeking collaborations, open-source contributions, and learning opp
 [![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabujghorai)
 [![Email](https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoraisabuj4@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabujghorai&style=for-the-badge)
+---
 
-💡 "Learn daily, practice consistently, and grow continuously"
+<h3 align="center">👀 Profile Views</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabujghorai&style=for-the-badge" />
+</p>
+
+💡 *"Learn daily, practice consistently, and grow continuously"*
