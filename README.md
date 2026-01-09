@@ -11,7 +11,7 @@
 - 🔹 Learning Python & Data Structures
 - 🔹 Practicing DSA daily
 - 🔹 Exploring Git & GitHub
-- 🔹 Interested in Backend Development
+- 🔹 Interested in Frontend Development
 
 ---
 
