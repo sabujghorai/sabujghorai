@@ -31,6 +31,12 @@
 ---
 
 ## 📫 Connect With Me
+I'm actively seeking collaborations, open-source contributions, and learning opportunities in Python & DSA.
 
-- 🔗 GitHub: https://github.com/sabujghorai
-- 🔗 LinkedIn: (https://www.linkedin.com/in/sabuj-ghorai-17758b345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabuj-ghorai)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabujghorai)
+[![Email](https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoraisabuj4@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sabujghorai&style=for-the-badge)
+
+💡 "Learn daily, practice consistently, and grow continuously"
