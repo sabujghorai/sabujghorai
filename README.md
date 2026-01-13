@@ -28,6 +28,8 @@
 ![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight)
 
 ---
+## 📊 My GitHub Contributions Summary
+---
 
 ## 📫 Let's Connect
 I'm actively seeking collaborations, open-source contributions, and learning opportunities in Python & DSA.
