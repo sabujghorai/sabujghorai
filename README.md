@@ -28,11 +28,6 @@
 ![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight)
 
 ---
-<a href="https://www.buymeacoffee.com/yourname">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FF5F5F" />
-</a>
-
----
 
 ## 📫 Let's Connect
 I'm actively seeking collaborations, open-source contributions, and learning opportunities in Python & DSA.
