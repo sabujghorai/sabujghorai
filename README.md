@@ -29,6 +29,8 @@
 
 ---
 ## 📊 My GitHub Contributions Summary
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=dark)
+
 ---
 
 ## 📫 Let's Connect
