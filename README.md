@@ -29,7 +29,6 @@
 
 ---
 ## 📊 My GitHub Contributions Summary
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabujghorai&theme=github_dark)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabujghorai&theme=github_dark)
 
