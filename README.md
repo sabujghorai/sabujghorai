@@ -32,9 +32,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 ---
 
 ## 📫 Let's Connect
