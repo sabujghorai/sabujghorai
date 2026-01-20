@@ -24,29 +24,25 @@
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight"/>
-</p>
-.stats-container {
-  display: flex;
-  gap: 20px;
-  align-items: stretch; /* 🔥 key line */
-}
+<h2>📊 GitHub Stats</h2>
 
-.card {
-  flex: 1;              /* both cards equal width */
-  min-height: 280px;    /* adjust as needed */
-  padding: 20px;
-  border-radius: 12px;
-  background: #0d1117;
-  border: 1px solid #30363d;
-}
+<img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=tokyonight" />
 
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🧠 Most Used Languages</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ---
 
