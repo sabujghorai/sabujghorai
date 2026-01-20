@@ -24,7 +24,6 @@
 
 ## 📈 GitHub Statistics
 <table align="center">
-<tr>
 <td>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=react" />
@@ -35,7 +34,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=react" />
 
 </td>
-</tr>
 </table>
 
 
