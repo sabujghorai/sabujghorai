@@ -32,27 +32,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight&hide_border=true" />
 </p>
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-
-
 ---
 
 ## 📫 Let's Connect
