@@ -26,10 +26,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=react" />
-
-</td>
-<td>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=react" />
 </div>
 
