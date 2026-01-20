@@ -27,14 +27,6 @@
 
 ![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=tokyonight)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=tokyonight" height="170"/>
-</p>
-🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight)
-
 
 
 ---
