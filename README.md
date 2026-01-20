@@ -1,51 +1,10 @@
-# 👋 Hi, I'm Sabuj Ghorai
+##  👋 Hi there I’m Sabuj Ghorai,  
+a passionate learner from India 🇮🇳  
 
-💻 Aspiring Python & DSA Learner  
-🚀 Learning Git, GitHub, and Data Structures  
-📍 India
-
----
+- 🌱 Learning **Python, C & Frontend Development**
+- 💻 Interested in **Web Development**
+- 🚀 Building projects step by step
 
 
-## 🚀 About Me
-
-- 🔹 Learning Python & Data Structures
-- 🔹 Practicing DSA daily
-- 🔹 Exploring Git & GitHub
-- 🔹 Interested in Frontend Development
-
----
-
-## 🛠️ Technology Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=codeforces&logoColor=white)
-
-## 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Let's Connect
-I'm actively seeking collaborations, open-source contributions, and learning opportunities in Python & DSA.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabuj-ghorai)
-[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabujghorai)
-[![Email](https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoraisabuj4@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabujghorai&style=for-the-badge" />
-</p>
 
 💡 *"Learn daily, practice consistently, and grow continuously"*
