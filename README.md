@@ -32,9 +32,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight"/>
 </p>
-b-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight)
-
-
 ---
 
 ## 📫 Let's Connect
