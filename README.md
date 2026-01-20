@@ -28,12 +28,16 @@
 ![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=tokyonight)
 
+## 📈 GitHub Statistics
 
----
-## 📊 My GitHub Contributions Summary
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabujghorai&theme=github_dark)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabujghorai&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight"/>
+</p>
 ---
 
 ## 📫 Let's Connect
