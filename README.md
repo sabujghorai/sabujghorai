@@ -30,4 +30,13 @@ a passionate learner from India 🇮🇳
   <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight"/>
 </p>
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+![Snake animation](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
+
 💡 *"Learn daily, practice consistently, and grow continuously"*
