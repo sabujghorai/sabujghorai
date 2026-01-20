@@ -23,8 +23,7 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ## 📈 GitHub Statistics
-<table align="center">
-<td>
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=react" />
 
@@ -32,9 +31,7 @@
 <td>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=react" />
-
-</td>
-</table>
+</div>
 
 
 ---
