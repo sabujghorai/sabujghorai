@@ -13,11 +13,21 @@ a passionate learner from India 🇮🇳
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
 ---
+
 ## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight"/>
 </p>
 
 💡 *"Learn daily, practice consistently, and grow continuously"*
