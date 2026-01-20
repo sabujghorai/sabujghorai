@@ -32,6 +32,21 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight"/>
 </p>
+.stats-container {
+  display: flex;
+  gap: 20px;
+  align-items: stretch; /* 🔥 key line */
+}
+
+.card {
+  flex: 1;              /* both cards equal width */
+  min-height: 280px;    /* adjust as needed */
+  padding: 20px;
+  border-radius: 12px;
+  background: #0d1117;
+  border: 1px solid #30363d;
+}
+
 
 ---
 
