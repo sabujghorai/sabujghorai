@@ -32,9 +32,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight"/>
 </p>
-🔥 GitHub Streak
+b-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabujGhorai&theme=tokyonight)
 
 ---
 
