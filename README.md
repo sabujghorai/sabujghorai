@@ -23,11 +23,9 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ## 📈 GitHub Statistics
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SabujGhorai&show_icons=true&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabujGhorai&layout=compact&theme=react" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ---
