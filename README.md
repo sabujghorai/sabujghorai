@@ -39,9 +39,4 @@ a passionate learner from India 🇮🇳
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
-
-
 💡 *"Learn daily, practice consistently, and grow continuously"*
