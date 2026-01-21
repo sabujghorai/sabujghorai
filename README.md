@@ -19,7 +19,7 @@ a passionate learner from India 🇮🇳
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode" />
 </p>
 
 ---
