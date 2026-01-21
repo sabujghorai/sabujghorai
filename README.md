@@ -31,6 +31,14 @@ a passionate learner from India 🇮🇳
 
 ---
 
+## 🌐 Connect with Me 💬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabuj-ghorai-17758b345/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoraisabuj4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/(https://github.com/sabujghorai))
+
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
