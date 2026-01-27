@@ -51,4 +51,4 @@ a passionate learner from India 🇮🇳
 ---
 
 💡 *"Learn daily, practice consistently, and grow continuously"*
- ### Thank you for visiting my profile☺️
+<p align="center"> Thank you ☺️ </p>
