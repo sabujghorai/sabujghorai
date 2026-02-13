@@ -15,9 +15,7 @@ a passionate learner from India 🇮🇳
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
-<p align="center">
-  <img src="https://img.shields.io/badge/OSI_Model-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TCP/IP-important?style=for-the-badge"/>
+
   <img src="https://img.shields.io/badge/Topologies-Mesh_Star_Bus_Ring-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Encoding-Manchester-purple?style=for-the-badge"/>
 </p>
