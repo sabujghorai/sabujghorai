@@ -18,7 +18,7 @@ a passionate learner from India 🇮🇳
 ---
 ## 🌐 Computer Networks
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/OSI_Model-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TCP/IP-important?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Topologies-Mesh_Star_Bus_Ring-orange?style=for-the-badge"/>
