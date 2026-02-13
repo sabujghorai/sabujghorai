@@ -15,10 +15,6 @@ a passionate learner from India 🇮🇳
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
----
-
-## 🌐 Computer Networks
-
 <p align="center">
   <img src="https://img.shields.io/badge/OSI_Model-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TCP/IP-important?style=for-the-badge"/>
