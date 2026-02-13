@@ -14,7 +14,7 @@ a passionate learner from India 🇮🇳
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Computer Network](https://img.shields.io/badge/Networking-Computer%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+  ![Computer Network](https://img.shields.io/badge/Computer%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 
