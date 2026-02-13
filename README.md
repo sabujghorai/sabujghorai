@@ -21,7 +21,6 @@ a passionate learner from India 🇮🇳
 <p align="left">
   <img src="https://img.shields.io/badge/OSI_Model-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TCP/IP-important?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LAN-CAN-MAN-WAN-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Topologies-Mesh_Star_Bus_Ring-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Encoding-Manchester-purple?style=for-the-badge"/>
 </p>
