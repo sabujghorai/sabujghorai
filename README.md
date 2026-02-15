@@ -20,11 +20,6 @@ a passionate learner from India 🇮🇳
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🌐 Connect with Me 💬
