@@ -26,11 +26,6 @@ a passionate learner from India 🇮🇳
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect with Me 💬
 
