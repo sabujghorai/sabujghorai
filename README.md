@@ -1,4 +1,4 @@
-##  👋 Hi there I’m Sabuj Ghorai  
+##  👋 Hi there I’m Sabuj Ghorai,
 a passionate learner from India 🇮🇳  
 
 - 🌱 Learning **Python, C & Frontend Development**
