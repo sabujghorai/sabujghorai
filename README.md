@@ -18,7 +18,7 @@ a passionate learner from India 🇮🇳
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,python,c,cpp,html,css,nodejs,mongodb,java,github,vscode,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,github,vscode,figma&perline=6" />
 </p>
 
 ---
