@@ -7,13 +7,11 @@ a passionate learner from India 🇮🇳
 
 ---
 
-## 🧰 Tech Stack ⚡
+## 🚀 Tech Stack
 
-  ## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,nodejs,mongodb,git,github,vscode" />
-</p>
+| React | JavaScript | Python | C | C++ | HTML/CSS |
+|-------|------------|--------|---|-----|----------|
+| Node.js | MongoDB | Java | GitHub | Figma | VS Code |
 
 
 
