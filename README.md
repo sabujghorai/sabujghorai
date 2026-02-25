@@ -8,7 +8,6 @@ a passionate learner from India 🇮🇳
 ---
 
 ## 🚀 Tech Stack
-<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=🚀+My+Tech+Stack;Full+Stack+Developer;DSA+%7C+Networking+%7C+Problem+Solving" />
 </p>
