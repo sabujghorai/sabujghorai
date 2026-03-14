@@ -1,63 +1,110 @@
-<h1 align="center">Hi 👋, I'm Sabuj Ghorai</h1>
-<h3 align="center">🚀 Aspiring MLOps Engineer | Python & DSA Learner</h3>
+<h1 align="center">Sabuj Ghorai</h1>
+<h3 align="center">Aspiring MLOps Engineer | Python Developer | DSA Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+MLOps+Engineer;Python+Developer;DSA+Learner;Linux+Enthusiast;Always+Learning+New+Things" />
+Learning Daily 🚀 Building Skills for MLOps
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
 
-🎓 First-Year Computer Science Student  
-💻 Currently learning **Python & Data Structures and Algorithms**  
-⚙️ Experienced with **C Programming Basics**  
-🐧 Exploring **Linux and DevOps tools**  
-🚀 My goal is to become a **Professional MLOps Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
-
----
-## 🔗 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/sabujghorai">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:ghoraisabuj4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sabuj-ghorai/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/sabuj_ghorai/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sabujghorai">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+awesome+🚀" />
-</div>
+# 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+build+something+awesome!" alt="Typing SVG" />
-</div>
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode,docker,kubernetes,aws"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Python Programming  
+- Data Structures & Algorithms  
+- Linux Fundamentals  
+- Git & GitHub  
+- DevOps Basics  
+
+🎯 Goal: Become a **Professional MLOps Engineer**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujghorai&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🗺️ My MLOps Roadmap
+
+✔ Python  
+✔ C Programming  
+✔ Data Structures & Algorithms  
+🔄 Linux  
+🔄 Git & GitHub  
+🔜 Docker  
+🔜 Machine Learning  
+🔜 Kubernetes  
+🔜 Cloud (AWS)
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=blue&style=flat" />
-</p> 
 
-⭐ **Always learning, building, and improving every day.**
+Thanks for visiting! Let's connect 🤝
+
+</p>
