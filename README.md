@@ -28,20 +28,15 @@
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 
 ---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+awesome+🚀" />
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+build+something+awesome!" alt="Typing SVG" />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 ---
 ## 🔗 Connect With Me
