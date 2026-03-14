@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!;Sabuj+Ghorai+-+Future+MLOps+Engineer" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
