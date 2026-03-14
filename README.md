@@ -40,8 +40,8 @@
         <br>C
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML CSS" />
-        <br>HTML/CSS
+        <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML" />
+        <br>HTML
       </td>
     </tr>
     <tr>
