@@ -1,110 +1,76 @@
-<h1 align="center">Sabuj Ghorai</h1>
-<h3 align="center">Aspiring MLOps Engineer | Python Developer | DSA Learner</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Sabuj%20Ghorai&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=70&fontFamily=Orbitron" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily%2C+Building+Consistently;CSE+Student+%7C+Future+Tech+Architect" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- 🔗 Social Links -->
+<div align="center">
+  <a href="mailto:ghoraisabuj4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabuj-ghorai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/sabuj_ghorai/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/https.avi_1819/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML CSS" />
+        <br>HTML/CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center"></h2>
 
 <p align="center">
-Learning Daily 🚀 Building Skills for MLOps
+  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+awesome+🚀" />
+</div>
 
-<a href="mailto:ghoraisabuj4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+build+something+awesome!" alt="Typing SVG" />
+</div>
 
-<a href="https://www.linkedin.com/in/sabuj-ghorai/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sabuj_ghorai/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sabujghorai">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode,docker,kubernetes,aws"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Python Programming  
-- Data Structures & Algorithms  
-- Linux Fundamentals  
-- Git & GitHub  
-- DevOps Basics  
-
-🎯 Goal: Become a **Professional MLOps Engineer**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujghorai&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 🗺️ My MLOps Roadmap
-
-✔ Python  
-✔ C Programming  
-✔ Data Structures & Algorithms  
-🔄 Linux  
-🔄 Git & GitHub  
-🔜 Docker  
-🔜 Machine Learning  
-🔜 Kubernetes  
-🔜 Cloud (AWS)
-
----
-
-<p align="center">
-
-Thanks for visiting! Let's connect 🤝
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
