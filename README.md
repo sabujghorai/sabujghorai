@@ -71,12 +71,19 @@ I am documenting my **daily coding journey** on GitHub.
 ![snake gif](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
 ## 🔗 Connect With Me
 
-🌐 GitHub: https://github.com/sabujghorai  
-💼 LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/sabuj-ghorai/)
+<p align="left">
 
+<a href="https://github.com/sabujghorai">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sabuj-ghorai/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 ---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=blue&style=flat" />
