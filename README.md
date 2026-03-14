@@ -23,30 +23,9 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
-
-### Future MLOps Stack
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-
----
-
-## 📚 Current Learning Journey
-
-🔹 Python Programming  
-🔹 Data Structures & Algorithms  
-🔹 Linux Fundamentals  
-🔹 Git & GitHub  
-
-I am documenting my **daily coding journey** on GitHub.
 
 ---
 
@@ -63,12 +42,6 @@ I am documenting my **daily coding journey** on GitHub.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🔗 Connect With Me
