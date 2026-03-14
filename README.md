@@ -73,8 +73,9 @@ I am documenting my **daily coding journey** on GitHub.
 ---
 
 ## 👀 Profile Visitors
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=blue&style=flat" />
-
+</p> 
 ---
 
 ## 🔗 Connect With Me
