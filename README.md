@@ -79,22 +79,7 @@ I am documenting my **daily coding journey** on GitHub.
 ---
 
 ## 👀 Profile Visitors
-
 <img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=blue&style=flat" />
-
----
-
-## 🗺️ My MLOps Roadmap
-
-✔ Python  
-✔ C Programming  
-✔ Data Structures & Algorithms  
-🔄 Linux  
-🔄 Git & GitHub  
-🔜 Docker  
-🔜 Machine Learning  
-🔜 Kubernetes  
-🔜 Cloud (AWS)
 
 ---
 
