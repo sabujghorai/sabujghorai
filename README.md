@@ -1,10 +1,19 @@
-##  👋 Hi there I’m Sabuj Ghorai ,
-a passionate learner from India 🇮🇳  
+<h1 align="center">Hi 👋, I'm Sabuj Ghorai</h1>
+<h3 align="center">🚀 Aspiring MLOps Engineer | Python & DSA Learner</h3>
 
-- 🌱 Learning **Python, C & Frontend Development**
-- 💻 Interested in **Web Development**
-- 🚀 Building projects step by step
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Aspiring+MLOps+Engineer;Python+Developer;DSA+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+🎓 First-year Computer Science student  
+💻 Currently learning **Python and Data Structures & Algorithms**  
+⚙️ Strong foundation in **C Programming**  
+🐧 Exploring **Linux and DevOps tools**  
+🚀 Goal: Become a **Professional MLOps Engineer**
 ---
 <h2 align="center">🚀 Tech Stack</h2>
 
