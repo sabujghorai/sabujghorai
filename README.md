@@ -72,17 +72,14 @@ I am documenting my **daily coding journey** on GitHub.
 
 ---
 
-## 👀 Profile Visitors
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=blue&style=flat" />
-</p> 
----
-
 ## 🔗 Connect With Me
 
 🌐 GitHub: https://github.com/sabujghorai  
-💼 LinkedIn: Add your LinkedIn profile here
+💼 LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/sabuj-ghorai/)
 
 ---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sabujghorai&label=Profile%20views&color=blue&style=flat" />
+</p> 
 
 ⭐ **Always learning, building, and improving every day.**
