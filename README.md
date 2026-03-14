@@ -66,12 +66,6 @@ I am documenting my **daily coding journey** on GitHub.
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujghorai&theme=tokyo-night" />
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/sabujghorai/sabujghorai/blob/output/github-contribution-grid-snake.svg)
