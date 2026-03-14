@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily+%7C+Building+Consistently;CSE+Student+%7C+Future+Web+Developer;Habbit+beats+Willpower" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily+%7C+Building+Consistently;CSE+Student+%7C+Future+Web+Developer;Come+To+Learn+%7C+Go+To+Serve" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!;Sabuj+Ghorai+-+Future+MLOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
