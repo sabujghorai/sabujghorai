@@ -36,10 +36,6 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         <br>GitHub
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-      </td>
     </tr>
   </table>
 </div>
