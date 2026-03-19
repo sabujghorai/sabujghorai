@@ -56,6 +56,12 @@
   </table>
 </div>
 
+## 📊 GitHub Stats
+
+![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight)
+
 <h2 align="center"></h2>
 
 <p align="center">
