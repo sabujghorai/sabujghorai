@@ -58,10 +58,14 @@
 
 ## 📊 GitHub Stats
 
-![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight" />
+</p>
 <h2 align="center"></h2>
 
 <p align="center">
