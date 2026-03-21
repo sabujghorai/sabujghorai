@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight"/>
   <img src="https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight" />
 </p>
 
