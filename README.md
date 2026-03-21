@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
