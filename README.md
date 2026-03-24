@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Sabuj%20Ghorai&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20MLOps%20Engineer%20%7C%20DevOps+%7C+Python+Developer&descSize=18&descAlignY=70&fontFamily=Orbitron" width="100%"/>
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily+%7C+Building+Consistently;CSE+Student+%7C+Future+Web+Developer;Come+To+Learn+%7C+Go+To+Serve" alt="Typing SVG" />
 </div>
