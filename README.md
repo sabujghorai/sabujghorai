@@ -10,20 +10,27 @@
 </div>
 
 <!-- 🔗 Social Links -->
-<div align="center">
+<p align="left">
+  <!-- Gmail -->
   <a href="mailto:ghoraisabuj4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/sabuj-ghorai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sabuj-ghorai/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://leetcode.com/u/sabuj_ghorai/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/sabuj_ghorai/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
   </a>
-  <a href="https://www.instagram.com/https.avi_1819/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/https.avi_1819/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-</div>
+</p>
 
 <h2 align="center">🚀 Tech Stack</h2>
 
