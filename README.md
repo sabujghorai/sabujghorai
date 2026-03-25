@@ -17,20 +17,22 @@
   <a href="mailto:ghoraisabuj4@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  
+  </p>
   <!-- LinkedIn -->
-  
+  <p>
   <a href="https://www.linkedin.com/in/sabuj-ghorai/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  
+  </p>
   <!-- LeetCode -->
-  
+  <p>
   <a href="https://leetcode.com/u/sabuj_ghorai/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
   </a>
+  </p>
   
   <!-- Instagram -->
+  <p>
   <a href="https://www.instagram.com/https.avi_1819/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
