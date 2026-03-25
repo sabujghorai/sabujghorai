@@ -13,28 +13,17 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-  <!-- Gmail -->
   <a href="mailto:ghoraisabuj4@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
   </a>
-  </p>
-  <!-- LinkedIn -->
-  <p>
-  <a href="https://www.linkedin.com/in/sabuj-ghorai/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.linkedin.com/in/sabuj-ghorai/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
-  </p>
-  <!-- LeetCode -->
-  <p>
-  <a href="https://leetcode.com/u/sabuj_ghorai/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
+  <a href="https://leetcode.com/u/sabuj_ghorai">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
   </a>
-  </p>
-  
-  <!-- Instagram -->
-  <p>
-  <a href="https://www.instagram.com/https.avi_1819/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://www.instagram.com/https.avi_1819/">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
   </a>
 </p>
 
