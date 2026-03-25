@@ -15,13 +15,16 @@
 <p align="left">
   <a href="mailto:ghoraisabuj4@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/sabuj-ghorai/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/sabuj_ghorai">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/https.avi_1819/">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
   </a>
