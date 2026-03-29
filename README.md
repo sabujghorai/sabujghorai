@@ -1,14 +1,74 @@
 <div align="center">
 
-  <!-- Neon Glow Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=SABUJ%20GHORAI&fontSize=55&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F5A0&stroke=00F5A0&strokeWidth=2&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
+<svg width="100%" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
 
-  <br><br>
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
 
-  
-  <!-- Neon Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=⚡+Sabuj+Ghorai;🚀+Aspiring+MLOps+Engineer;💻+DevOps+%7C+Python+Developer" />
+    <!-- Subtle Moving Gradient -->
+    <linearGradient id="gradText" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#00F5A0"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#00F5A0"/>
+      <animate attributeName="x1" from="0%" to="200%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="100%" to="300%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Soft Glow -->
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Shine Sweep -->
+    <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="white" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="transparent"/>
+      <animate attributeName="x1" from="-100%" to="200%" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="300%" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
+
+  <!-- Main Thin Text -->
+  <text x="50%" y="52%" text-anchor="middle"
+        font-family="Raleway, Segoe UI, sans-serif"
+        font-size="40"
+        letter-spacing="5"
+        fill="url(#gradText)"
+        filter="url(#softGlow)">
+    Sabuj Ghorai
+  </text>
+
+  <!-- Shine Overlay -->
+  <text x="50%" y="52%" text-anchor="middle"
+        font-family="Raleway, Segoe UI, sans-serif"
+        font-size="40"
+        letter-spacing="5"
+        fill="url(#shine)">
+    Sabuj Ghorai
+  </text>
+
+</svg>
+
+<br><br>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=28&duration=2800&pause=1200&color=00F5A0&center=true&vCenter=true&width=700&lines=⚡+Sabuj+Ghorai;🚀+Aspiring+MLOps+Engineer;💻+DevOps+%7C+Python+Developer" />
+
 </div>
+
 <!-- 🔗 Social Links -->
 ## 🌐 Connect with me:
 
