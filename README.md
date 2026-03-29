@@ -2,6 +2,9 @@
 
   <!-- Neon Glow Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=SABUJ%20GHORAI&fontSize=55&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F5A0&stroke=00F5A0&strokeWidth=2&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5A0&icon_color=00F5A0"/>
+</p>
 
   <br><br>
 
