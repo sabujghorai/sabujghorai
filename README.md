@@ -40,20 +40,8 @@
         <br>C
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/>
-        <br>Java
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
         <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
-        <br>CSS
       </td>
     </tr>
     <tr>
@@ -69,18 +57,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
         <br>VS Code
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
-        <br>AWS
-      </td>
+     
     </tr>
   </table>
 </div>
