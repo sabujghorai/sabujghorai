@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Souvik%20Sahoo&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=70&fontFamily=Orbitron" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Sabuj%20Ghorai&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20MLOps%20Engineer%20%7C%20CSE%20Student%20%7C%20Problem%20Solver&descSize=18&descAlignY=70&fontFamily=Orbitron" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily%2C+Building+Consistently;CSE+Student+%7C+Future+Tech+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily%2C+Building+Consistently;CSE+Student+%7C+Future+MLOps+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,20 +12,17 @@
 
 <!-- 🔗 Social Links -->
 <div align="center">
-  <a href="mailto:souviksahoo2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:ghoraisabuj4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/souvik-sahoo-00854927a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sabuj-ghorai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/souviksahoo2003">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://leetcode.com/u/sabuj_ghorai">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/FeLOz1hLeR/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/souviksahoo_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/https.avi_1819/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
@@ -35,54 +32,54 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48"/>
         <br>C
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
         <br>C++
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML CSS" />
-        <br>HTML/CSS
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+        <br>CSS
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+        <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+        <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
+        <br>AWS
       </td>
     </tr>
   </table>
