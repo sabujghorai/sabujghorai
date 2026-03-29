@@ -1,85 +1,104 @@
+<!-- ================= HEADER ================= -->
 <div align="center">
-  <!-- Ultra Clean Name Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SABUJ%20GHORAI&fontSize=40&fontAlign=50&fontAlignY=50&color=0:1a1a2e,100:16213e&fontColor=ffffff&stroke=ffffff&strokeWidth=0.8&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
-  <br>
-  <!-- Clean Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=80&section=footer"/>
+
+<svg width="100%" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+
+    <linearGradient id="gradText" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#00F5A0"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#00F5A0"/>
+      <animate attributeName="x1" from="0%" to="200%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="100%" to="300%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
+
+  <text x="50%" y="52%" text-anchor="middle"
+        font-family="Raleway, sans-serif"
+        font-size="40"
+        letter-spacing="5"
+        fill="url(#gradText)">
+    SABUJ GHORAI
+  </text>
+</svg>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=28&duration=2800&pause=1200&color=00F5A0&center=true&vCenter=true&width=700&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer;Consistent+Learner+%7C+Problem+Solver" />
+
 </div>
-  <!-- Minimal Divider -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily+%7C+Building+Consistently;CSE+Student+%7C+Future+Web+Developer;Come+To+Learn+%7C+Go+To+Serve" alt="Typing SVG" />
+---
 
+# 👨‍💻 About Me
 
-<!-- 🔗 Social Links -->
-## 🌐 Connect with me:
+- 🎓 CSE Student  
+- 🚀 Aspiring **MLOps Engineer**
+- 💻 Passionate about **DevOps, Python & DSA**
+- 📚 Currently learning **System Design & Cloud**
+- 🔥 Consistent in **180 Days DSA Challenge**
 
-<p align="left">
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-00F5A0?style=for-the-badge&logo=python&logoColor=black)
+
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-00F5A0?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00F5A0?style=for-the-badge&logo=github&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5A0&icon_color=00F5A0"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=tokyonight&hide_border=true&ring=00F5A0"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujghorai&theme=react-dark&hide_border=true&color=00F5A0"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
   <a href="mailto:ghoraisabuj4@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  </a>
   <a href="https://www.linkedin.com/in/sabuj-ghorai/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  </a>
   <a href="https://leetcode.com/u/sabuj_ghorai">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/https.avi_1819/">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
   </a>
 </p>
 
-<h2 align="center">🚀 Tech Stack</h2>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
-        <br>HTML
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-        <br>VS Code
-      </td>
-    </tr>
-  </table>
-</div>
+# ⚡ Fun Fact
 
-## 📊 GitHub Stats
+> “I don’t just learn code, I build consistency.”
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=sabujghorai&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujghorai&layout=compact&theme=tokyonight"/>
-</p>
-<h2 align="center"></h2>
-
-<p align="center">
-  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+---
 
 ---
 
