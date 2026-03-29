@@ -5,6 +5,8 @@
   <!-- Clean Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&width=650&lines=Sabuj+Ghorai;Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
   <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=80&section=footer"/>
+</div>
   <!-- Minimal Divider -->
 
 <div align="center">
