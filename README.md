@@ -1,62 +1,19 @@
 <div align="center">
+  <!-- Ultra Clean Name Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SABUJ%20GHORAI&fontSize=40&fontAlign=50&fontAlignY=50&color=0:1a1a2e,100:16213e&fontColor=ffffff&stroke=ffffff&strokeWidth=0.8&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
+  <br>
+  <!-- Clean Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=80&section=footer"/>
+</div>
+  <!-- Minimal Divider -->
 
-<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Background -->
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#16213e"/>
-    </linearGradient>
-
-    <!-- Glow Effect -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Shine Animation -->
-    <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="transparent"/>
-      <stop offset="50%" stop-color="white" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="transparent"/>
-      <animate attributeName="x1" from="-100%" to="200%" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="x2" from="0%" to="300%" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background Rect -->
-  <rect width="100%" height="100%" fill="url(#bg)" rx="15"/>
-
-  <!-- Main Text -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Orbitron, sans-serif"
-        font-size="42"
-        fill="white"
-        letter-spacing="4"
-        filter="url(#glow)">
-    SABUJ GHORAI
-  </text>
-
-  <!-- Shine Overlay -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Orbitron, sans-serif"
-        font-size="42"
-        fill="url(#shine)"
-        letter-spacing="4">
-    SABUJ GHORAI
-  </text>
-
-</svg>
-
-<br><br>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&width=650&lines=Sabuj+Ghorai;Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily+%7C+Building+Consistently;CSE+Student+%7C+Future+Web+Developer;Come+To+Learn+%7C+Go+To+Serve" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- 🔗 Social Links -->
