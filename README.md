@@ -30,7 +30,7 @@
 
 <div align="center">
   <table>
-    <tr>
+<tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
         <br>Python
@@ -58,7 +58,7 @@
         <br>VS Code
       </td>
      
-    </tr>
+  </tr>
   </table>
 </div>
 
