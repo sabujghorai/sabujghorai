@@ -30,6 +30,7 @@
 
 <div align="center">
   <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
         <br>Python
