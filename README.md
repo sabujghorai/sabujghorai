@@ -1,17 +1,14 @@
 <div align="center">
 
-  <!-- Clean Premium Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Sabuj%20Ghorai&fontSize=55&fontAlign=50&fontAlignY=45&color=0:1f1c2c,100:928DAB&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SABUJ%20GHORAI&fontSize=42&fontAlign=50&fontAlignY=50&color=0:0f0c29,100:302b63&fontColor=ffffff&stroke=ffffff&strokeWidth=0.6&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
 
-  <br><br>
+  <br>
 
-  <!-- Smooth Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
 
-  <br><br>
+  <br>
 
-  <!-- Soft Wave Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=80&section=footer"/>
 
 </div>
 
