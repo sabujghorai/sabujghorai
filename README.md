@@ -1,69 +1,17 @@
 <div align="center">
-
-<svg width="100%" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <!-- Background -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-    <linearGradient id="gradText" x1="0%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="#00F5A0"/>
-      <stop offset="50%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#00F5A0"/>
-      <animate attributeName="x1" from="0%" to="200%" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" from="100%" to="300%" dur="6s" repeatCount="indefinite"/>
-    </linearGradient>
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-  </defs>
-    <!-- Shine Sweep -->
-    <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="transparent"/>
-      <stop offset="50%" stop-color="white" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="transparent"/>
-      <animate attributeName="x1" from="-100%" to="200%" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="x2" from="0%" to="300%" dur="4s" repeatCount="indefinite"/>
-    </linearGradient>
-
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
-
-  <!-- Main Thin Text -->
-  <text x="50%" y="52%" text-anchor="middle"
-        font-family="Raleway, Segoe UI, sans-serif"
-        font-size="40"
-        letter-spacing="5"
-        fill="url(#gradText)"
-        filter="url(#softGlow)">
-    Sabuj Ghorai
-  </text>
-
-  <!-- Shine Overlay -->
-  <text x="50%" y="52%" text-anchor="middle"
-        font-family="Raleway, Segoe UI, sans-serif"
-        font-size="40"
-        letter-spacing="5"
-        fill="url(#shine)">
-    Sabuj Ghorai
-  </text>
-
-</svg>
-
-<br><br>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=28&duration=2800&pause=1200&color=00F5A0&center=true&vCenter=true&width=700&lines=⚡+Sabuj+Ghorai;🚀+Aspiring+MLOps+Engineer;💻+DevOps+%7C+Python+Developer" />
-
+  <!-- Ultra Clean Name Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SABUJ%20GHORAI&fontSize=40&fontAlign=50&fontAlignY=50&color=0:1a1a2e,100:16213e&fontColor=ffffff&stroke=ffffff&strokeWidth=0.8&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
+  <br>
+  <!-- Clean Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=80&section=footer"/>
 </div>
+  <!-- Minimal Divider -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily+%7C+Building+Consistently;CSE+Student+%7C+Future+Web+Developer;Come+To+Learn+%7C+Go+To+Serve" alt="Typing SVG" />
+
 
 <!-- 🔗 Social Links -->
 ## 🌐 Connect with me:
