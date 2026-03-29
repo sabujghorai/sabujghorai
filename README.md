@@ -1,113 +1,107 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
-
-<svg width="100%" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-
-    <linearGradient id="gradText" x1="0%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="#00F5A0"/>
-      <stop offset="50%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#00F5A0"/>
-      <animate attributeName="x1" from="0%" to="200%" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" from="100%" to="300%" dur="6s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
-
-  <text x="50%" y="52%" text-anchor="middle"
-        font-family="Raleway, sans-serif"
-        font-size="40"
-        letter-spacing="5"
-        fill="url(#gradText)">
-    SABUJ GHORAI
-  </text>
-</svg>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=28&duration=2800&pause=1200&color=00F5A0&center=true&vCenter=true&width=700&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer;Consistent+Learner+%7C+Problem+Solver" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-- 🎓 CSE Student  
-- 🚀 Aspiring **MLOps Engineer**
-- 💻 Passionate about **DevOps, Python & DSA**
-- 📚 Currently learning **System Design & Cloud**
-- 🔥 Consistent in **180 Days DSA Challenge**
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-00F5A0?style=for-the-badge&logo=python&logoColor=black)
-
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-00F5A0?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-00F5A0?style=for-the-badge&logo=github&logoColor=black)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5A0&icon_color=00F5A0"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=tokyonight&hide_border=true&ring=00F5A0"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujghorai&theme=react-dark&hide_border=true&color=00F5A0"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:ghoraisabuj4@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sabuj-ghorai/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/sabuj_ghorai">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
-  </a>
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> “I don’t just learn code, I build consistency.”
-
----
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+awesome+🚀"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Souvik%20Sahoo&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=70&fontFamily=Orbitron" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Let's+connect+and+build+something+awesome!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31E1F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Crafting+Code+with+Purpose;Learning+Daily%2C+Building+Consistently;CSE+Student+%7C+Future+Tech+Architect" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- 🔗 Social Links -->
+<div align="center">
+  <a href="mailto:souviksahoo2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/souvik-sahoo-00854927a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/souviksahoo2003">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/FeLOz1hLeR/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/souviksahoo_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML CSS" />
+        <br>HTML/CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center"></h2>
+
+<p align="center">
+  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+awesome+🚀" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+build+something+awesome!" alt="Typing SVG" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
