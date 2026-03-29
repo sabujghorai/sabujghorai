@@ -12,6 +12,8 @@
     </linearGradient>
 
     <!-- Neon Glow -->
+    
+  </defs>
     <filter id="glow">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
@@ -19,7 +21,6 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-  </defs>
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
