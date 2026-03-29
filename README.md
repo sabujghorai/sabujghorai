@@ -1,17 +1,50 @@
 <div align="center">
 
-  <!-- Banner (unchanged) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=SABUJ%20GHORAI&fontSize=55&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F5A0&stroke=00F5A0&strokeWidth=2&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
+<!-- Delius Style Big Name -->
+<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
 
-  <br><br>
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
 
-  <!-- Delius Font Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=36&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Sabuj+Ghorai;Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
+    <!-- Neon Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-  <br><br>
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
 
-  <!-- Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=100&section=footer"/>
+  <!-- Delius-like Thin Handwritten Text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="'Delius', cursive, 'Segoe UI', sans-serif"
+        font-size="48"
+        fill="#00F5A0"
+        letter-spacing="2"
+        filter="url(#glow)">
+    Sabuj Ghorai
+  </text>
+
+</svg>
+
+<br><br>
+
+<!-- Keep your typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=36&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
+
+<br><br>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=100&section=footer"/>
 
 </div>
 
