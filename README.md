@@ -11,9 +11,8 @@
       <stop offset="100%" stop-color="#2c5364"/>
     </linearGradient>
 
-    <!-- Neon Glow -->
-    
   </defs>
+    <!-- Neon Glow -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
