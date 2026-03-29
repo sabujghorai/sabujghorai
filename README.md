@@ -8,12 +8,6 @@
   
   <!-- Neon Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=⚡+Sabuj+Ghorai;🚀+Aspiring+MLOps+Engineer;💻+DevOps+%7C+Python+Developer" />
-
-  <br><br>
-
-  <!-- Glowing Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=100&section=footer"/>
-
 </div>
 <!-- 🔗 Social Links -->
 ## 🌐 Connect with me:
