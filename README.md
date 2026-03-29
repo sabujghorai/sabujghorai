@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Neon Glow Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Sabuj%20Ghorai&fontSize=45&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F5A0&stroke=00F5A0&strokeWidth=2&animation=fadeIn&fontFamily=Rajdhani" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Sabuj%20Ghorai&fontSize=55&fontAlign=40&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F5A0&stroke=00F5A0&strokeWidth=2&animation=fadeIn&fontFamily=Rajdhani" width="100%"/>
   <br><br>
   <!-- Neon Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=35&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=⚡+🚀+Aspiring+MLOps+Engineer;💻+DevOps+%7C+Python+Developer" />
