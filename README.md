@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Sabuj%20Ghorai&text2=🚀%20Aspiring%20MLOps%20Engineer&width=1000&height=100" width="100%" alt="Header Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Sabuj%20Ghorai&text2=🚀%20Aspiring%20MLOps%20Engineer&width=1000&height=150" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
