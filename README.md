@@ -1,10 +1,17 @@
 <div align="center">
 
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=SABUJ%20GHORAI&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&fontFamily=Orbitron" width="100%"/>
+  <!-- Neon Glow Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=SABUJ%20GHORAI&fontSize=55&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F5A0&stroke=00F5A0&strokeWidth=2&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
+  <br><br>
+
+  <!-- Neon Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=⚡+Sabuj+Ghorai;🚀+Aspiring+MLOps+Engineer;💻+DevOps+%7C+Python+Developer" />
+
+  <br><br>
+
+  <!-- Glowing Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=100&section=footer"/>
 
 </div>
 
