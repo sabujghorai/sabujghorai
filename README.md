@@ -11,8 +11,7 @@
       <stop offset="100%" stop-color="#2c5364"/>
     </linearGradient>
 
-  </defs>
-    <!-- Neon Glow -->
+    <!-- Neon Glow (FIXED: moved inside defs) -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
@@ -20,11 +19,12 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+  </defs>
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
 
-  <!-- Delius-like Thin Handwritten Text -->
+  <!-- Text -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="'Delius', cursive, 'Segoe UI', sans-serif"
         font-size="48"
@@ -38,7 +38,7 @@
 
 <br><br>
 
-<!-- Keep your typing animation -->
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=36&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Aspiring+MLOps+Engineer;DevOps+%7C+Python+Developer" />
 
 <br><br>
