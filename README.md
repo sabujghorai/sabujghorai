@@ -9,8 +9,6 @@
       <stop offset="50%" stop-color="#203a43"/>
       <stop offset="100%" stop-color="#2c5364"/>
     </linearGradient>
-
-    <!-- Subtle Moving Gradient -->
     <linearGradient id="gradText" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#00F5A0"/>
       <stop offset="50%" stop-color="#ffffff"/>
@@ -18,8 +16,6 @@
       <animate attributeName="x1" from="0%" to="200%" dur="6s" repeatCount="indefinite"/>
       <animate attributeName="x2" from="100%" to="300%" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
-
-    <!-- Soft Glow -->
     <filter id="softGlow">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
@@ -28,6 +24,7 @@
       </feMerge>
     </filter>
 
+  </defs>
     <!-- Shine Sweep -->
     <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="transparent"/>
@@ -36,7 +33,6 @@
       <animate attributeName="x1" from="-100%" to="200%" dur="4s" repeatCount="indefinite"/>
       <animate attributeName="x2" from="0%" to="300%" dur="4s" repeatCount="indefinite"/>
     </linearGradient>
-  </defs>
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="url(#bg)" rx="12"/>
