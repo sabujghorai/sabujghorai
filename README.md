@@ -70,6 +70,16 @@
 
 ---
 
+## 📅 2025–2026 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitray7810&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=2025-2026%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+awesome+🚀" />
 </div>
