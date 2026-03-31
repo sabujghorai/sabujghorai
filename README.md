@@ -38,7 +38,7 @@
         <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+        <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=72&animation=glow&animationDuration=2.9" alt="html5" />
         <br>HTML
       </td>
     </tr>
