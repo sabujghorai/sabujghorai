@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1F1C2C,100:928DAB&height=200&section=header&text=Sabuj%20Ghorai&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Future%20MLOps%20Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1F1C2C,100:928DAB&height=200&section=header&text=Sabuj%20Ghorai&fontSize=50&fontColor=ffffff&animation=twinkling&desc=" />
 </div>
 
 
