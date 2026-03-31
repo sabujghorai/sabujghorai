@@ -1,7 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1F1C2C,100:928DAB&height=200&section=header&text=Sabuj%20Ghorai&fontSize=50&fontColor=ffffff&animation=twinkling&desc=" />
-</div>
 
+<svg width="100%" height="150" viewBox="0 0 1000 150">
+
+  <!-- 🌑 Background -->
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <!-- ⚡ Moving Background Light -->
+  <rect x="-200" y="0" width="200" height="150" fill="url(#bgLight)">
+    <animate attributeName="x" from="-200" to="1200" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ✨ Text Shine Effect (Luminance Style) -->
+  <defs>
+
+    <!-- Background light -->
+    <linearGradient id="bgLight">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F7FF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00F7FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Text gradient -->
+    <linearGradient id="textBase">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#cccccc"/>
+    </linearGradient>
+
+    <!-- Moving shine across text -->
+    <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F7FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <animate attributeName="x1" from="-100%" to="100%" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="200%" dur="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Mask to apply shine only on text -->
+    <mask id="textMask">
+      <text x="50%" y="55%" text-anchor="middle"
+            fill="white"
+            font-size="48"
+            font-family="Segoe UI, sans-serif"
+            letter-spacing="2">
+        Sabuj Ghorai
+      </text>
+    </mask>
+
+  </defs>
+
+  <!-- Base Text -->
+  <text x="50%" y="55%" text-anchor="middle"
+        fill="url(#textBase)"
+        font-size="48"
+        font-family="Segoe UI, sans-serif"
+        letter-spacing="2">
+
+    Sabuj Ghorai
+
+    <!-- Smooth float -->
+    <animateTransform 
+      attributeName="transform"
+      type="translate"
+      values="0,0; 0,-4; 0,0"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- Shine Overlay (Luminance Effect) -->
+  <rect width="100%" height="100%" fill="url(#shine)" mask="url(#textMask)"/>
+
+</svg>
+
+</div>
+---
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=900&height=100&lines=Aspiring+MLOps+Engineer;Building+Scalable+ML+Pipelines;DevOps+%7C+Cloud+%7C+Automation;CSE+Student+Focused+on+AI+Systems" alt="Typing SVG" />
 </div>
