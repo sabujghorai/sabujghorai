@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Sabuj%20Ghorai&text2=🚀%20Aspiring%20MLOps%20Engineer&width=1000&height=150" width="100%" alt="Header Banner"/>
-</div
+</div>
 ---
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+MLOps+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
