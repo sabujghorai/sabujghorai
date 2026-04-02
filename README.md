@@ -82,7 +82,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujghorai&theme=react-dark&hide_border=true" />
 </p>
 
-
 ---
 
 <div align="center">
