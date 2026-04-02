@@ -68,13 +68,12 @@
 
 ---
 
-## 📅 2025–2026 Contribution Activity
+## 🎮 Interactive Contribution Graph (Activity Graph)
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujghorai&theme=react-dark&hide_border=true" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitray7810&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=2025-2026%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
