@@ -68,6 +68,14 @@
 
 ---
 
+## 🔥 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabujghorai&theme=radical" />
+</p>
+
+---
+
 ## 🎮 Interactive Contribution Graph (Activity Graph)
 
 <p align="center">
