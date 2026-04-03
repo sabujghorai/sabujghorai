@@ -51,11 +51,7 @@
         <div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
         <br>GitHub
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
-        <br>VS Code
-      </td>
-     
+        
   </tr>
   </table>
 </div>
