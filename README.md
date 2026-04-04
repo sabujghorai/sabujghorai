@@ -30,12 +30,20 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Student (Cyber Security)
+- 🎓 B.Tech Student
 - 🚀 Aspiring MLOps Engineer
 - 🧠 Currently learning: Python, DSA, Cloud
 - 📌 Goal: Work in top tech companies (Google, Amazon)
 - 🔥 180 Days Coding Challenge
-- 
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 Python Practice Repo → https://github.com/sabujghorai/python
+- 🔹 DSA Journey → (add later)
+- 🔹 Future ML Project → Coming Soon
+
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
