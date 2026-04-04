@@ -87,8 +87,6 @@
 
 ## 🚀 Upcoming Learning Goals
 
-## 🚀 Upcoming Learning Goals
-
 <div align="center">
   <table>
     <tr>
@@ -112,6 +110,7 @@
     <tr>
       <td align="center" width="96">
       <img src="https://www.readmecodegen.com/api/social-icon?name=aws&size=78&animation=glow&animationDuration=0.9&reverseBackground=true" alt="aws" />
+        <br>AWS
         </td>
       <td align="center" width="96">
         <img src="https://www.readmecodegen.com/api/social-icon?name=prometheus&size=72&animation=glow&animationDuration=2.9" />
