@@ -110,10 +110,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=amazonaws&size=72&animation=glow&animationDuration=2.9" />
-        <br>AWS
-      </td>
+      <img src="https://www.readmecodegen.com/api/social-icon?name=aws&size=78&animation=glow&animationDuration=0.9&reverseBackground=true" alt="aws" />
       <td align="center" width="96">
         <img src="https://www.readmecodegen.com/api/social-icon?name=awscloudformation&size=72&animation=glow&animationDuration=2.9" />
         <br>CloudFormation
