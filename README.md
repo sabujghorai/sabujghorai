@@ -85,47 +85,6 @@
   </table>
 </div>
 
-## 🚀 Upcoming Learning Goals
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=72&animation=glow&animationDuration=2.9" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=72&animation=glow&animationDuration=2.9" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=terraform&size=72&animation=glow&animationDuration=2.9" />
-        <br>Terraform
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=72&animation=glow&animationDuration=2.9" />
-        <br>Jenkins
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-      <img src="https://www.readmecodegen.com/api/social-icon?name=aws&size=78&animation=glow&animationDuration=0.9&reverseBackground=true" alt="aws" />
-        <br>AWS
-        </td>
-      <td align="center" width="96">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=prometheus&size=72&animation=glow&animationDuration=2.9" />
-        <br>Prometheus
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=grafana&size=72&animation=glow&animationDuration=2.9" />
-        <br>Grafana
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 <h2 align="center"></h2>
 
 <p align="center">
