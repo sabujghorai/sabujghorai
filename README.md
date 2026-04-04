@@ -80,7 +80,27 @@
         <div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
         <br>GitHub
       </td>
-        
+## 🚀 Upcoming Learning Goals
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65"/>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65"/>
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="65" height="65"/>
+        <br>Machine Learning
+      </td>
+    </tr>
+  </table>
+</div>
+
   </tr>
   </table>
 </div>
