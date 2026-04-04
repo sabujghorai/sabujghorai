@@ -26,6 +26,18 @@
   </a>
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Student (Cyber Security)
+- 🚀 Aspiring MLOps Engineer
+- 🧠 Currently learning: Python, DSA, Cloud
+- 📌 Goal: Work in top tech companies (Google, Amazon)
+- 🔥 180 Days Coding Challenge
+- 
+---
+
 <h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
