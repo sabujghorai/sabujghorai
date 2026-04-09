@@ -5,7 +5,6 @@
   />
 </div>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+MLOps+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 </div>
