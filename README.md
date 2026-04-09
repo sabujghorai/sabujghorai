@@ -1,9 +1,10 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=blur&height=225&color=0:0f2027,50:203a43,100:2c5364&text=Sabuj%20Ghorai&fontSize=65&animation=scaleIn&fontColor=ffffff&desc=🚀%20Aspiring%20MLOps%20Engineer&descSize=25&descAlignY=70"
+    src="https://capsule-render.vercel.app/api?type=blur&height=225&color=0:0f2027,50:203a43,100:2c5364&text=Sabuj%20Ghorai&fontSize=65&animation=scaleIn&fontColor=dcdcdc&desc=🚀%20Aspiring%20MLOps%20Engineer&descSize=25&descAlignY=70&descColor=a9a9a9"
     width="100%"
   />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+MLOps+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
