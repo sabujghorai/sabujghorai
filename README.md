@@ -1,7 +1,5 @@
 <div align="center">
-  <img 
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Sabuj%20Ghorai&width=900&height=200" alt="">"
-  />
 </div>
 
 <div align="center">
