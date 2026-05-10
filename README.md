@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Sabuj%20Ghorai&width=900&height=200" alt="">
-</div>
+    <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Sabuj%20Ghorai&width=900&height=200" alt="">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+MLOps+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
