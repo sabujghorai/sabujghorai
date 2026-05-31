@@ -6,6 +6,7 @@
 =======
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Aspiring+DevOps+%26+MLOps+Engineer;🐍+Learning+Python+%7C+DSA+%7C+Problem+Solving;⚙️+Linux+%7C+Git+%7C+Docker+%7C+Kubernetes;☁️+AWS+Cloud+%7C+CI%2FCD+%7C+Automation;📊+Future+MLOps+Engineer+%7C+ML+Deployment+%7C+Monitoring;🔥+Building+Skills+Step+by+Step+Everyday)](https://git.io/typing-svg)
+
 >>>>>>> 8afb206 (updated the readme file)
 
 <div align="center">
