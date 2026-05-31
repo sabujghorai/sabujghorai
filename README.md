@@ -2,19 +2,9 @@
     <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Sabuj%20Ghorai&width=900&height=200" alt="">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Aspiring+MLOps+%26+Forward+Deployed+Engineer;🐍+Learning+Python+%7C+DSA+%7C+Problem+Solving;⚙️+Linux+%7C+Git+%7C+Docker+%7C+Kubernetes;☁️+AWS+Cloud+%7C+CI%2FCD+%7C+Automation;📊+Future+Forward+Deployed+Engineer+%7C+ML+Deployment+%7C+Monitoring;🔥+Building+Skills+Step+by+Step+Everyday)](https://git.io/typing-svg)
-    <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Sabuj%20Ghorai&width=900&height=200" alt="Banner">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Aspiring+MLOps+%26+Forward+Deployed+Engineer;🐍+Learning+Python+%7C+DSA+%7C+Problem+Solving;⚙️+Linux+%7C+Git+%7C+Docker+%7C+Kubernetes;☁️+AWS+Cloud+%7C+CI%2FCD+%7C+Automation;📊+Future+Forward+Deployed+Engineer+%7C+ML+Deployment+%7C+Monitoring;🔥+Building+Skills+Step+by+Step+Everyday)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+MLOps+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+MLOps+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 </div>
