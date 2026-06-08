@@ -75,6 +75,10 @@
         <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=72&animation=glow&animationDuration=2.9" alt="html5" />
         <br>HTML
       </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65"/>
+    <br>CSS
+  </td>
     </tr>
     <tr>
       <td align="center" width="96">
