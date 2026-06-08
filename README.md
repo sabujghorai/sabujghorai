@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=radical" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sabujghorai&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabujghorai&theme=radical" />
 </p>
 
@@ -88,7 +88,13 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65"/>
         <br>Linux
-      </td
+      </td>
+      <td align="center" width="96">
+    <div style="display: flex;">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+    </div>
+    <br>Docker
+  </td>
 
   </tr>
   </table>
@@ -119,3 +125,5 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+
