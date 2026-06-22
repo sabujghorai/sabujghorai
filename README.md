@@ -76,7 +76,12 @@
         <br>HTML
       </td>
     </tr>
-    <tr>
+      <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65"/>
+  <br>SQL
+</td>
+
+<tr>
       <td align="center" width="96">
         <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96&animation=glow&animationDuration=2.9" alt="git" />
         <br>Git
@@ -95,11 +100,6 @@
     </div>
     <br>Docker
   </td>
-  <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65"/>
-  <br>SQL
-</td>
-
   </tr>
   </table>
 </div>
