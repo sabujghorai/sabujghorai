@@ -104,7 +104,6 @@
         </div>
         <br>Docker
       </td>
-    < /tr>
   </table>
 </div>
 
