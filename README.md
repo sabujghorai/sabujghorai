@@ -95,6 +95,10 @@
     </div>
     <br>Docker
   </td>
+  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65"/>
+  <br>SQL
+</td>
 
   </tr>
   </table>
