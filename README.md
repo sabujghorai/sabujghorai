@@ -62,48 +62,53 @@
 
 <div align="center">
   <table>
-<tr>
-  <td align="center" width="96">
-     <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
-    <br>Python
-     </td>
+    <tr>
       <td align="center" width="96">
-        <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
-        <br> C
+        <div style="display: flex; align-items: flex-start;">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </div>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <div style="display: flex; align-items: flex-start;">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        </div>
+        <br>C
       </td>
       <td align="center" width="96">
         <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=72&animation=glow&animationDuration=2.9" alt="html5" />
         <br>HTML
       </td>
-    </tr>
-      <tr>
       <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65"/>
-  <br>SQL
-</td>
-</tr>
-<tr>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65"/>
+        <br>SQL
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96&animation=glow&animationDuration=2.9" alt="git" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
+        <div style="display: flex;">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        </div>
         <br>GitHub
       </td>
-        <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65"/>
         <br>Linux
       </td>
       <td align="center" width="96">
-    <div style="display: flex;">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-    </div>
-    <br>Docker
-  </td>
-  </tr>
+        <div style="display: flex;">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        </div>
+        <br>Docker
+      </td>
+    < /tr>
   </table>
 </div>
+
 
 <h2 align="center"></h2>
 
