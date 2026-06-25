@@ -40,11 +40,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Personal Portfolio
+<p align="center">
+  <a href="https://sabuj-ghorai-pesonal-portfolio.lovable.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
-- 🔹 Python Practice Repo → https://github.com/sabujghorai/python
-- 🔹 DSA Journey → (add later)
-- 🔹 Future ML Project → Coming Soon
 
 ---
 
