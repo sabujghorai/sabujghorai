@@ -178,13 +178,6 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 ---
 
-## 📂 Repository Highlights
-
-<div align="center">
-
-
----
-
 ## Personal Portfolio
 <p align="center">
   <a href="https://sabuj-ghorai-pesonal-portfolio.lovable.app">
