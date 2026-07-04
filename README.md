@@ -178,6 +178,22 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 ---
 
+## 📂 Repository Highlights
+
+<div align="center">
+
+[![Python](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=Python&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/Python)
+
+[![SQL](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=SQL&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/SQL)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/Portfolio)
+
+[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=DSA&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/DSA)
+
+</div>
+
+---
+
 ## Personal Portfolio
 <p align="center">
   <a href="https://sabuj-ghorai-pesonal-portfolio.lovable.app">
