@@ -61,7 +61,7 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 | 📍 Location | Kolkata, West Bengal, India |
 | 💼 Role | Cloud & MLOps Engineer |
 | 🗂️ Repos | 10+ Public on GitHub |
-| 🏆 GitHub | Pull Shark 🦈 · Quickdraw 🎲 |
+| 🏆 GitHub | Pull Shark 🦈 · Quickdraw 🐙 |
 | 💻 Languages | Python, SQL, JavaScript |
 | 🌐 Interests | Web Development, Cloud, MLOps |
 | 📚 Currently Learning | DSA, AWS, Docker, SQL |
