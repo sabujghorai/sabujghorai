@@ -79,6 +79,31 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 </div>
 
+---
+
+
+## 🎯 Roadmap — 2026 → 2027
+
+✅ Learn Python Programming Fundamentals
+✅ Learn SQL & Database Management
+✅ Build Responsive Web Development Projects
+✅ Create a Professional GitHub Portfolio
+
+🚧 Master Data Structures & Algorithms (450+ Problems)      → In Progress
+🚧 Build Full-Stack Projects (MERN/Python)                  → In Progress
+🚧 Learn AWS Cloud & Prepare for Cloud Practitioner          → In Progress
+🚧 Strengthen Git, GitHub & Open-Source Contributions        → In Progress
+
+🔜 AWS Certified Cloud Practitioner                          → Planned
+🔜 AWS Certified Solutions Architect – Associate             → Planned
+🔜 Docker & Kubernetes                                       → Planned
+🔜 CI/CD with GitHub Actions & Jenkins                       → Planned
+🔜 MLOps (MLflow, Docker, Kubernetes, FastAPI)               → Planned
+🔜 Build End-to-End AI & Cloud Projects                      → Planned
+🔜 Contribute to Open-Source Projects                        → Planned
+🔜 Secure a Software Engineering Internship                  → Planned
+🔜 Crack Google / Microsoft / Amazon Internship Interviews   → Planned
+🔜 Become a Software Engineer & MLOps Engineer               → Target: 2027
 
 ---
 
