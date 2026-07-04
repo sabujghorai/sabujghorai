@@ -32,11 +32,51 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Student
-- 🚀 Aspiring MLOps Engineer
-- 🧠 Currently learning: Python, DSA, Cloud
-- 📌 Goal: Work in top tech companies (Google, Amazon)
-- 🔥 180 Days Coding Challenge
+<table>
+<tr>
+<td width="55%">
+
+### 🚀 Who Am I?
+
+Hi! I'm **Sabuj Ghorai**, a Computer Science student from **West Bengal, India 🇮🇳**, passionate about **Software Development, Python, Web Development, and MLOps**.
+
+I'm currently focused on building a strong foundation in **Data Structures & Algorithms**, developing real-world projects, and preparing for software engineering internships.
+
+**What I'm currently working on:**
+- 🐍 Learning **Python** for software development and automation
+- 🌐 Building responsive **Full-Stack Web Applications**
+- 💻 Solving **Data Structures & Algorithms** problems for coding interviews
+- 🗄️ Learning **SQL & Database Management**
+- ☁️ Exploring **AWS Cloud** and **MLOps**
+- 📂 Building projects and contributing regularly to **GitHub**
+
+</td>
+
+<td width="45%" align="center">
+
+### 🧩 Quick Facts
+
+| | |
+|---|---|
+| 📍 Location | West Bengal, India |
+| 🎓 Education | B.Tech CSE Student |
+| 💻 Languages | Python, SQL, JavaScript |
+| 🌐 Interests | Web Development, Cloud, MLOps |
+| 📚 Currently Learning | DSA, AWS, Full-Stack Development |
+| 🎯 Goal | Software Engineering Internship |
+| 🚀 Dream Companies | Google • Microsoft • Amazon |
+| 🌍 Open To | Remote & On-site Internships |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> 💬 *"Learn continuously. Build consistently. Solve real problems. Grow every day."*
+
+</div>
+
 
 ---
 
