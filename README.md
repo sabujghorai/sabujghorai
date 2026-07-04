@@ -81,29 +81,100 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 ---
 
+<h2>🎯 Roadmap — 2026 → 2027</h2>
 
-## 🎯 Roadmap — 2026 → 2027
+<table>
+<tr>
+<td>✅</td>
+<td>Learn Python Programming Fundamentals</td>
+<td><b>Completed</b></td>
+</tr>
 
-✅ Learn Python Programming Fundamentals
-✅ Learn SQL & Database Management
-✅ Build Responsive Web Development Projects
-✅ Create a Professional GitHub Portfolio
+<tr>
+<td>✅</td>
+<td>Learn SQL & Database Management</td>
+<td><b>Completed</b></td>
+</tr>
 
-🚧 Master Data Structures & Algorithms (450+ Problems)      → In Progress
-🚧 Build Full-Stack Projects (MERN/Python)                  → In Progress
-🚧 Learn AWS Cloud & Prepare for Cloud Practitioner          → In Progress
-🚧 Strengthen Git, GitHub & Open-Source Contributions        → In Progress
+<tr>
+<td>✅</td>
+<td>Build Responsive Web Development Projects</td>
+<td><b>Completed</b></td>
+</tr>
 
-🔜 AWS Certified Cloud Practitioner                          → Planned
-🔜 AWS Certified Solutions Architect – Associate             → Planned
-🔜 Docker & Kubernetes                                       → Planned
-🔜 CI/CD with GitHub Actions & Jenkins                       → Planned
-🔜 MLOps (MLflow, Docker, Kubernetes, FastAPI)               → Planned
-🔜 Build End-to-End AI & Cloud Projects                      → Planned
-🔜 Contribute to Open-Source Projects                        → Planned
-🔜 Secure a Software Engineering Internship                  → Planned
-🔜 Crack Google / Microsoft / Amazon Internship Interviews   → Planned
-🔜 Become a Software Engineer & MLOps Engineer               → Target: 2027
+<tr>
+<td>🚧</td>
+<td>Master Data Structures & Algorithms (450+ Problems)</td>
+<td><b>In Progress</b></td>
+</tr>
+
+<tr>
+<td>🚧</td>
+<td>Build Full-Stack Projects (React + Python)</td>
+<td><b>In Progress</b></td>
+</tr>
+
+<tr>
+<td>🚧</td>
+<td>Learn AWS Cloud & Prepare for Cloud Practitioner</td>
+<td><b>In Progress</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>AWS Certified Cloud Practitioner</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>AWS Solutions Architect – Associate</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>Docker & Kubernetes</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>CI/CD with GitHub Actions & Jenkins</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>MLOps (MLflow, Docker, Kubernetes, FastAPI)</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>Build End-to-End AI & Cloud Projects</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>Contribute to Open-Source Projects</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🔜</td>
+<td>Secure a Software Engineering Internship</td>
+<td><b>Planned</b></td>
+</tr>
+
+<tr>
+<td>🎯</td>
+<td>Become a Software Engineer & MLOps Engineer</td>
+<td><b>Target: 2027</b></td>
+</tr>
+
+</table>
 
 ---
 
