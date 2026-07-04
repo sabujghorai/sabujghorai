@@ -170,7 +170,7 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 <tr>
 <td>🎯</td>
-<td>Become a Software Engineer & MLOps Engineer</td>
+<td>Become a Cloud & MLOps Engineer</td>
 <td><b>Target: 2027</b></td>
 </tr>
 
