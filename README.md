@@ -178,28 +178,13 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 ---
 
-## 📂 Repository Highlights
+[![PYTHON](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=PYTHON&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/PYTHON)
 
-<div align="center">
+[![DATA-STRUCTURE-PYTHON](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=DATA-STRUCTURE-PYTHON&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/DATA-STRUCTURE-PYTHON)
 
-<a href="https://github.com/sabujghorai/PYTHON">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=PYTHON&theme=tokyonight&hide_border=true" />
-</a>
+[![SQL](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=SQL&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/SQL)
 
-<a href="https://github.com/sabujghorai/DATA-STRUCTURE-PYTHON">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=DATA-STRUCTURE-PYTHON&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/sabujghorai/SQL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=SQL&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://sabuj-ghorai-pesonal-portfolio.lovable.app/">
-<img src="https://img.shields.io/badge/🌐_Personal_Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
-
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/sabujghorai/Portfolio)
 
 ---
 
