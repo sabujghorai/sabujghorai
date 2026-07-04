@@ -58,13 +58,15 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 | | |
 |---|---|
-| 📍 Location | West Bengal, India |
-| 🎓 Education | B.Tech CSE Student |
+| 📍 Location | Kolkata, West Bengal, India |
+| 💼 Role | Cloud & MLOps Engineer |
+| 🗂️ Repos | 10+ Public on GitHub |
+| 🏆 GitHub | Pull Shark 🦈 · YOLO 🎲 |
 | 💻 Languages | Python, SQL, JavaScript |
 | 🌐 Interests | Web Development, Cloud, MLOps |
-| 📚 Currently Learning | DSA, AWS, Docker, SQL,  |
-| 🎯 Goal | Software Engineering Internship |
-| 🚀 Dream Companies | Google • Microsoft • Amazon |
+| 📚 Currently Learning | DSA, AWS, Docker, SQL |
+| 📊 Contributions | 2,122 total (since May 2024) |
+| 🔥 Longest Streak | 57 days |
 | 🌍 Open To | Remote & On-site Internships |
 
 </td>
@@ -73,7 +75,7 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 <div align="center">
 
-> 💬 *"Learn continuously. Build consistently. Solve real problems. Grow every day."*
+> 💬 *"Automate everything. Measure what matters. Build for scale. Optimize continuously."*
 
 </div>
 
