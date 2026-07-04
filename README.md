@@ -62,7 +62,7 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 | 🎓 Education | B.Tech CSE Student |
 | 💻 Languages | Python, SQL, JavaScript |
 | 🌐 Interests | Web Development, Cloud, MLOps |
-| 📚 Currently Learning | DSA, AWS, Full-Stack Development |
+| 📚 Currently Learning | DSA, AWS, Docker, SQL,  |
 | 🎯 Goal | Software Engineering Internship |
 | 🚀 Dream Companies | Google • Microsoft • Amazon |
 | 🌍 Open To | Remote & On-site Internships |
