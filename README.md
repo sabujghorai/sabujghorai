@@ -186,7 +186,6 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 [![DSA](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=DATA-STRUCTURE-PYTHON&theme=tokyonight)](https://github.com/sabujghorai/DATA-STRUCTURE-PYTHON)
 
 [![SQL](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=SQL&theme=tokyonight)](https://github.com/sabujghorai/SQL)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sabujghorai&repo=Portfolio&theme=tokyonight)](https://github.com/sabujghorai/Portfolio)
 
 </div>
 
