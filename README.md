@@ -65,7 +65,7 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 | 💻 Languages | Python, SQL, JavaScript |
 | 🌐 Interests | Web Development, Cloud, MLOps |
 | 📚 Currently Learning | DSA, AWS, Docker, SQL |
-| 📊 Contributions | 2,122 total (since May 2024) |
+| 📊 Contributions | 2,122 total (since May 2025) |
 | 🔥 Longest Streak | 57 days |
 | 🌍 Open To | Remote & On-site Internships |
 
