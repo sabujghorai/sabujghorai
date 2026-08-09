@@ -252,6 +252,13 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 </p>
 
 ---
+ ## My GitHub Activity
+
+ <p align="center">
+  <img src="https://gitlyy.vercel.app/api/contribution?username=sabujghorai&hide_border=true" alt="GitHub Contribution Graph">
+</p>
+
+---
 
 ## 🎮 Interactive Contribution Graph (Activity Graph)
 
