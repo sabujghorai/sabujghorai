@@ -161,7 +161,6 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 <td>Contribute to Open-Source Projects</td>
 <td><b>Planned</b></td>
 </tr>
-
 <tr>
 <td>🔜</td>
 <td>Secure a Software Engineering Internship</td>
